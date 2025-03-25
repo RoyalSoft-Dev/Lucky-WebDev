@@ -33,9 +33,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
-
 ![](https://komarev.com/ghpvc/?username=adityakumar28&color=447ff7&label=Visitor+count)
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbTrax&theme=bear" width=750  alt="stats graph"/>
+
+</div>
 
 **Some of the technologies I have worked with**
 
