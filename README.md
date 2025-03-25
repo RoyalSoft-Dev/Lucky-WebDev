@@ -29,9 +29,11 @@
   </a>
 </p>
 
-**Some of the technologies I have worked with**
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=RoyalSoft-Dev&theme=buddhism)](https://github.com/RoyalSoft-Dev/github-profile-trophy)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+**Some of the technologies I have worked with**
 
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
