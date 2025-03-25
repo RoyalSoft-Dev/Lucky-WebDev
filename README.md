@@ -14,15 +14,15 @@
 ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift)
 
 <p>
-  <a href="https://github.com/Lucky-WebDev" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/RoyalSoft-Dev" target="_blank" rel="noopener noreferrer">
     <img
       height="180em"
-      src="https://satoshj-readme-state.vercel.app/api?username=Lucky-WebDev&hide=contribs&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
+      src="https://satoshj-readme-state.vercel.app/api?username=RoyalSoft-Dev&hide=contribs&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
       alt='github-stats'
     />
     <img
       height="180em"
-      src="https://satoshj-readme-state.vercel.app/api/top-langs?username=Lucky-WebDev&show_icons=true&langs_count=8&layout=compact&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
+      src="https://satoshj-readme-state.vercel.app/api/top-langs?username=RoyalSoft-Dev&show_icons=true&langs_count=8&layout=compact&hide_border=true&bg_color=FFFFFF00&text_color=05CCB2&icon_color=FFFFFF&title_color=FFFFFF"
       alt='github-stats-toplangs'
     />
     
@@ -31,7 +31,7 @@
 
 **Some of the technologies I have worked with**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lucky-WebDev&theme=buddhism)](https://github.com/Lucky-WebDev/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RoyalSoft-Dev&theme=buddhism)](https://github.com/RoyalSoft-Dev/github-profile-trophy)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
@@ -51,4 +51,4 @@
 [![CoProperty](https://img.shields.io/badge/-📰&nbsp;Co&nbsp;Property-000000?style=flat)](https://coproperty.cloud)
 
 
-⭐️ From [Smile](https://github.com/Lucky-WebDev)
+⭐️ From [Smile](https://github.com/RoyalSoft-Dev)
