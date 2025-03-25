@@ -33,8 +33,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![](https://komarev.com/ghpvc/?username=RoyalSoft-Dev&color=447ff7&label=Visitor+count)
-
 **Some of the technologies I have worked with**
 
 <p align="left">
