@@ -33,6 +33,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
+
 ![](https://komarev.com/ghpvc/?username=adityakumar28&color=447ff7&label=Visitor+count)
 
 **Some of the technologies I have worked with**
